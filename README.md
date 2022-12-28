@@ -1,3 +1,5 @@
+## Based on https://github.com/DJI-Mobile-SDK-Tutorials/Android-VideoStreamDecodingSample but updated frequently. 
+
 # Android-VideoStreamDecodingSample
 
 ## Introduction
